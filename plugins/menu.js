@@ -290,7 +290,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
   },
 ]
 
-let tek = `✧────···[ Dashboard ]···────✧
+let tek = `✧────···[ LIST MENU ]···────✧
 *${ucapan()} ${conn.getName(m.sender)}*
 ╭━━━━━━━━━━━━━━━━┈─✧
 ┴
@@ -301,8 +301,8 @@ let tek = `✧────···[ Dashboard ]···────✧
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* User Banned
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *ᴀᴜᴛʜᴏʀ :* Ahmad Ali
-┴ ▸ *ᴏᴡɴᴇʀ :* xIKRATOSx
+│ ▸ *ᴀᴜᴛʜᴏʀ :* Sandaru
+┴ ▸ *ᴏᴡɴᴇʀ :* Sandaru Nethsara
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ Give me a break, Bro ^ω^
