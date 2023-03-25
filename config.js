@@ -48,24 +48,24 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '+94740686292' //Nomor Danamu
+global.ppulsa = '+94740686292' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
-global.namebot = 'WA-MD-v1' //Nama Bot
-global.nameown = 'sandaru' // Nama Owner
+global.nomorbot = '+94740686292' //Nomor Bot
+global.nomorown = '+94740686292' //Nomor Owner
+global.namebot = 'charitha WA-MD-v1' //Nama Bot
+global.nameown = 'R.A. Charitha' // Nama Owner
 
 
 /*============== STAFF ==============*/
-global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+global.owner = [Charitha ofc ] 
+  ['94764497078', 'Charitha', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['+94740686292','+94740686292','+94740686292'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -102,7 +102,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sandaru- ฅ ꒱ ‧₊˚꒷︶�
 global.wm3 = 'wa-ᴍᴅ-ᴠ𝟷'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊  ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ charitha ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 76 449 7078'
+global.phn = '+94740686292'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -154,7 +154,7 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━═┅═❏ *ღ 𝘿𝘼𝙎𝙃𝘽𝙊𝘼𝙍𝘿 ღ* ❏═┅═━━━┅'
+global.dashmenu = '┅━━━═┅═❏ *ღ charitha 𝘼𝙍𝘿 ღ* ❏═┅═━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊☯︎'                            //body
@@ -172,8 +172,8 @@ global.hsquere = ['⛶','❏','⫹⫺']
 /*============== STICKER WM ==============*/
 global.stickpack = 'x_ikratos_x'
 global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ bot'
+global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ charitha'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ charitha bot'
 
 global.multiplier = 38 // The higher, The harder levelup
 
